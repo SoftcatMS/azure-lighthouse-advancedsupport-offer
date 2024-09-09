@@ -7,7 +7,7 @@
             "metadata": {
                 "description": "Specify a unique name for your offer"
             },
-            "defaultValue": "Softcat - Microsoft Advanced Support Offer (Private Preview)"
+            "defaultValue": "Softcat - Microsoft Advanced Support Offer"
         },
         "mspOfferDescription": {
             "type": "string",
