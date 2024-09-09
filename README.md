@@ -14,4 +14,4 @@ The following permissions are included in this lighthouse offer.
 
 Use the below button to deploy this Azure Lighthouse offer to a tenant.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSoftcatMS%2Fazure-lighthouse-microsoftadvancedsupport-offer%2Fmain%2Fproduction-lighthouse-offer.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSoftcatMS%2Fazure-lighthouse-microsoft-advancedsupport-offer%2Fmain%2Fproduction-lighthouse-offer.json)
